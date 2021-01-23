@@ -1,0 +1,67 @@
+### Files before the manipulation ###
+Active Members:
+
+
+Membership No  Date Joined  Active  
+    42181      2018-7-23    no      
+    10849      2016-6-4     no      
+    84102      2020-10-10   no      
+    62865      2018-12-21   yes     
+    60895      2016-5-4     yes     
+    18925      2015-9-2     no      
+    91431      2015-10-2    no      
+    59817      2020-5-8     no      
+    23788      2015-12-24   yes
+    68672      2015-7-6     yes
+    71353      2020-3-23    no
+    59203      2020-3-11    no
+    67146      2016-1-20    yes
+    68160      2015-3-13    no
+    26809      2015-4-19    yes
+    45888      2018-7-23    no
+    60677      2017-12-9    yes
+    68556      2015-3-11    no
+    81853      2020-1-3     no
+    65378      2019-10-2    no
+
+Inactive Members:
+
+
+Membership No  Date Joined  Active
+    62920      2015-12-12   no
+    62125      2020-9-10    no
+    80691      2020-7-2     no
+
+### Files after the manipulation ###
+Active Members:
+
+
+Membership No  Date Joined  Active
+    62865      2018-12-21   yes
+    60895      2016-5-4     yes
+    23788      2015-12-24   yes
+    68672      2015-7-6     yes
+    67146      2016-1-20    yes
+    26809      2015-4-19    yes
+    60677      2017-12-9    yes
+
+Inactive Members:
+
+
+Membership No  Date Joined  Active
+    62920      2015-12-12   no
+    62125      2020-9-10    no
+    80691      2020-7-2     no
+    42181      2018-7-23    no
+    10849      2016-6-4     no
+    84102      2020-10-10   no
+    18925      2015-9-2     no
+    91431      2015-10-2    no
+    59817      2020-5-8     no
+    71353      2020-3-23    no
+    59203      2020-3-11    no
+    68160      2015-3-13    no
+    45888      2018-7-23    no
+    68556      2015-3-11    no
+    81853      2020-1-3     no
+    65378      2019-10-2    no
