@@ -3,6 +3,9 @@ from random import randint as rnd
 
 
 def genFiles(current,old):
+    '''
+    Generate the two memReg and exReg .txt files with random data.
+    '''
     fee =('yes','no')
 
     with open(current,'w+') as writefile: 
