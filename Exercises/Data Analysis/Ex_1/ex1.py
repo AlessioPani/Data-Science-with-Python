@@ -1,4 +1,3 @@
-#Run this prior to starting the exercise
 from random import randint as rnd
 
 
